@@ -1,0 +1,2 @@
+begin+end-const{}do
+ la
